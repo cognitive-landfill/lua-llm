@@ -17,5 +17,5 @@ You have been warned. Good luck.
 This work is marked with
 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
-This work has been marked as dedicated to the public domain.
+This work has been marked as dedicated to the public domain. You're welcome.
 
