@@ -1,4 +1,4 @@
-#!/usr/bin/env lua  -- adjust to your environment
+#!/usr/bin/env lua
 
 -- initialization function
 function init()
